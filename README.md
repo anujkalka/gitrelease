@@ -3,8 +3,11 @@ Find difference between two releases if multiple brances.This code takes reposit
 
 # Setup
 Set values of oldRelease and New release
+
 Set values for USER and PASS
+
 Set values for base path of your repository
+
 Set name of repositories in repo array.
 
 Run npm install
