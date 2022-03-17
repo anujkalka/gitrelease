@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "fs": "0.0.1-security",
-    "simple-git": "^1.132.0",
+    "simple-git": "^3.3.0",
     "underscore": "^1.10.2",
     "util": "^0.12.2"
   }
